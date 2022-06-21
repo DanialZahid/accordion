@@ -1,0 +1,33 @@
+@media (max-width: 500px) {
+  main {
+    padding: 15px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  .accordion-title,
+  .accordion-active ~ .accordion-content {
+    padding: $paddingAccordionMobile;
+  }
+
+  .accordion-content img {
+    height: 150px;
+  }
+
+  .col-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .col-span-2 {
+    grid-column: auto;
+  }
+}

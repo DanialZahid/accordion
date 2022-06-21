@@ -1,0 +1,58 @@
+* {
+  box-sizing: inherit;
+
+  &::before,
+  &::after {
+    box-sizing: inherit;
+  }
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  cursor: default;
+}
+
+body {
+  font: 1.6rem Arial, Helvetica, sans-serif;
+  color: #333;
+  background: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  min-height: 100vh;
+  max-width: 1000px;
+  margin: auto;
+  padding: 30px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: $radiusDefault;
+  box-shadow: $shadow;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: $radiusDefault;
+  box-shadow: $shadow;
+}
