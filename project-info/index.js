@@ -38,7 +38,7 @@ const projectInfo = {
   externalLinks: `
 		<li><a title="On my website" href="https://accordion.iamdanial.com/">On my website</a></li>
 		<li><a title="On GitHub" href="https://github.com/DanialZahid/accordion">On GitHub</a></li>
-		<li><a title="On CodePen" href="https://codepen.io/danialzahid">On CodePen</a></li>
+		<li><a title="On CodePen" href="https://codepen.io/danialzahid/pen/ExQzzbr">On CodePen</a></li>
 		`,
 
   license: `<a title="MIT" href="https://github.com/DanialZahid/accordion/blob/main/LICENSE">MIT</a>`,
