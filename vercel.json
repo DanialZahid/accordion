@@ -14,7 +14,7 @@
 
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self' *.googletagmanager.com; connect-src *.google-analytics.com *.googletagmanager.com *.analytics.google.com; img-src *.google-analytics.com *.googletagmanager.com; object-src 'none'; frame-ancestors 'self'"
+          "value": "script-src 'self' *.googletagmanager.com; connect-src *.google-analytics.com *.googletagmanager.com *.analytics.google.com; img-src 'self' *.google-analytics.com *.googletagmanager.com; object-src 'none'; frame-ancestors 'self'"
         },
 
         {
