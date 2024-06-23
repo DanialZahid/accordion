@@ -1,7 +1,7 @@
 # Attributions
 
-External assets were used in this work.
+Below are the authors and sources whose content is used in this project.
 
-- [Unsplash](https://unsplash.com/) — Image(s)
-- [Pixabay](https://pixabay.com/) — Video(s)
-- [Font Awesome](https://fontawesome.com/) — Icon(s)
+- [Unsplash](https://unsplash.com/): Images
+- [Pixabay](https://pixabay.com/): Videos
+- [Font Awesome](https://fontawesome.com/): Icons

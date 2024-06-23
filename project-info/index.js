@@ -36,9 +36,9 @@ const projectInfo = {
 	`,
 
   externalLinks: `
-		<li><a title="On my website" href="https://accordion.iamdanial.com/">On my website</a></li>
-		<li><a title="On GitHub" href="https://github.com/DanialZahid/accordion">On GitHub</a></li>
-		<li><a title="On CodePen" href="https://codepen.io/danialzahid/pen/ExQzzbr">On CodePen</a></li>
+		<li><a title="View on Vercel" href="https://accordion-dz.vercel.app/">View on Vercel</a></li>
+		<li><a title="View on GitHub" href="https://github.com/DanialZahid/accordion">View on GitHub</a></li>
+		<li><a title="View on CodePen" href="https://codepen.io/danialzahid/pen/ExQzzbr">View on CodePen</a></li>
 		`,
 
   license: `<a title="MIT" href="https://github.com/DanialZahid/accordion/blob/main/LICENSE">MIT</a>`,
